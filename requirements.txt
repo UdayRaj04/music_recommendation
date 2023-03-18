@@ -1,2 +1,2 @@
-python pip install pip
+/home/appuser/venv/bin/python -m sudo install --upgrade pip
 python pip install webrtc_streamer
