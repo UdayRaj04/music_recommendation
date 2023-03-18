@@ -1,0 +1,7 @@
+python -m pip install webrtc_streamer
+python -m pip install av
+python -m pip install cv 2
+python -m pip install streamlit
+python -m pip install numpy
+python -m pip install mediapipe
+python -m pip install keras
