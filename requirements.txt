@@ -1,2 +1,1 @@
-pip
-webrtc_streamer
+pip instal webrtc_streamer
