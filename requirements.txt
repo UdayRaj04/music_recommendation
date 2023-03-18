@@ -1,1 +1,1 @@
-pip install webrtc_streamer
+/home/appuser/venv/bin/python pip install webrtc_streamer
