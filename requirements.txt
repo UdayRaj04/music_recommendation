@@ -1,2 +1,2 @@
-sudo install --upgrade pip
+sudo install pip
 python pip install webrtc_streamer
