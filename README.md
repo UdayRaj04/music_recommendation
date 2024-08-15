@@ -22,4 +22,4 @@ Accurate emotion detection in varying lighting and environmental conditions.
 
 
 ### I also Participate in project competition with this in my clg, Certificate:
- ![image info](UDAY RAJ SHARMA (2).jpg)
+ ![image info](UDAY RAJ SHARMA (4).jpg)
